@@ -8,6 +8,11 @@
 - 📧 邮箱：linked8034@163.com
 - 📱 微信：Linked_Lin
 
+## 25T2最新资源如下
+6771往年所有代码
+9414、9417、9517等线下真题
+其他......（你想要的，我们都有。）
+
 ## 资源网站
 
 - [新南留学百科](https://rcn3cq7a4ivy.feishu.cn/wiki/ECwQwiTyviG5oQkOQG3cD7zMnCb?wiki_all_space_view_source=space_sidebar&fromScene=spaceOverview)：UNSW留学百科全书，包含课程、讲义、考试、作业、论文等资料。
