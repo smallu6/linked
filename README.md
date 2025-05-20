@@ -10,13 +10,11 @@
 
 ## 资源网站
 
-[新南留学百科](https://rcn3cq7a4ivy.feishu.cn/wiki/ECwQwiTyviG5oQkOQG3cD7zMnCb?wiki_all_space_view_source=space_sidebar&fromScene=spaceOverview)：UNSW留学百科全书，包含课程、讲义、考试、作业、论文等资料。
-[新南学习知识库](https://rcn3cq7a4ivy.feishu.cn/wiki/EB8swk3P2iPFGakMIFfcqWWmnKd?wiki_all_space_view_source=space_sidebar&fromScene=spaceOverview)
-
-
-小红书：📚 LinkEd连接教育
-B站频道： 📺 LinkEd连接教育
-GitHub： 💻 LinkEd连接教育
+- [新南留学百科](https://rcn3cq7a4ivy.feishu.cn/wiki/ECwQwiTyviG5oQkOQG3cD7zMnCb?wiki_all_space_view_source=space_sidebar&fromScene=spaceOverview)：UNSW留学百科全书，包含课程、讲义、考试、作业、论文等资料。
+- [新南学习知识库](https://rcn3cq7a4ivy.feishu.cn/wiki/EB8swk3P2iPFGakMIFfcqWWmnKd?wiki_all_space_view_source=space_sidebar&fromScene=spaceOverview)
+- 小红书：📚 LinkEd连接教育
+- B站频道： 📺 LinkEd连接教育
+- GitHub： 💻 LinkEd连接教育
 
 
 

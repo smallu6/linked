@@ -1,6 +1,5 @@
 - 前言
     - [网站简介](zh-cn/README.md)
-    - [个人简介](zh-cn/my.md)
     
 - 新南威尔士大学
     - [comp1511 编程基础](../COMP1511/README.md)
