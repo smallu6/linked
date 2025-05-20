@@ -88,9 +88,9 @@ PS : 资料太多，会持续更新。如果着急的话，也可加微信私聊
 
 
 
-可以直接微信咨询 ：Tutor_0914
+可以直接微信咨询 ：📩 【+V：Linked_Lin，备用：linked68】
 
-![微信号](/image/wechat.jpg)
+![微信号](/image/wechat.png)
 
 ## 访问量统计
 <span id="busuanzi_container_site_pv">本站总访问量<span id="busuanzi_value_site_pv"></span>次</span>

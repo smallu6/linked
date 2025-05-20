@@ -12,6 +12,6 @@ Computer Vision是没有期末考试的一门课，难度不是很大，但是�
 
 针对同学基础，1V1辅导。
 
-欢迎加我微信联系： Tutor_0914
+欢迎加我微信联系： 📩 【+V：Linked_Lin，备用：linked68】
 
-![图片](../image/wechat.jpg)
+![图片](../image/wechat.png)

@@ -44,6 +44,6 @@ Andrew 是一个 demanding 的老师。他上课的风格是不太爱 dry-teach�
 
 我可以在任何环节提供包括授课在内的任何形式的辅导。
 
-欢迎加我微信联系： Tutor_0914
+欢迎加我微信联系： 📩 【+V：Linked_Lin，备用：linked68】
 
-![图片](../image/wechat.jpg)
+![图片](../image/wechat.png)
